@@ -19,8 +19,8 @@
 
 Bu hafta bir kod odevi yok, kurulumlarin yapildigina dair ekran ciktisi koymaniz yeterli .
 
-## MSSQL Server & MSSQL Management Studio
-![ MSSQL Management Studio](./images/sql-managment.png)
+## MSSQL Server & MSSQL Managment Studio
+![ MSSQL Managment Studio](./images/sql-managment.png)
 
 ## PostgreSQL & PgAdmin 
 ![PgAdmin](./images/pgadmin.png)
