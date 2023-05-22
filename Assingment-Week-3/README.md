@@ -54,6 +54,7 @@ git clone https://github.com/BerkayMehmetSert/259-Simpra-Net-Bootcamp-Assignment
 
 2. Proje klasörüne gidin:
 ```shell
+cd Assingment-Week-3
 cd Net.Assignment.Week3
 ```
 
